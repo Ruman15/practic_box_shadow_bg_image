@@ -48,7 +48,7 @@
 
 .left-block:active  {
 	border-radius: 50px;
-	color: yellow;
+	color: red;
 	background: url("https://i.pinimg.com/originals/cb/ec/d3/cbecd3ef09c2fa8ae30c0ffddd7d29d3.jpg") 
 	no-repeat;
 	background-size: cover;
